@@ -1,0 +1,6 @@
+E:\工作\项目\张工 图像处理 剪切 荔浦\ImageGlass.ImageBox\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.csprojResolveAssemblyReference.cache
+E:\工作\项目\张工 图像处理 剪切 荔浦\ImageGlass.ImageBox\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.csproj.CoreCompileInputs.cache
+E:\工作\项目\张工 图像处理 剪切 荔浦\ImageGlass.ImageBox\ImageGlass.ImageBox\bin\Debug\ImageGlass.ImageBox.dll
+E:\工作\项目\张工 图像处理 剪切 荔浦\ImageGlass.ImageBox\ImageGlass.ImageBox\bin\Debug\ImageGlass.ImageBox.pdb
+E:\工作\项目\张工 图像处理 剪切 荔浦\ImageGlass.ImageBox\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.dll
+E:\工作\项目\张工 图像处理 剪切 荔浦\ImageGlass.ImageBox\ImageGlass.ImageBox\obj\Debug\ImageGlass.ImageBox.pdb
